@@ -32,7 +32,7 @@
 	</nav>
 
 	<div class="corner">
-		<a href="https://github.com/sveltejs/kit">
+		<a href="https://github.com/Chris-Cantwell/input-ui-2a">
 			<img src={github} alt="GitHub" />
 		</a>
 	</div>
